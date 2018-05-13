@@ -6,7 +6,7 @@ A wiki :ledger: for Udacity Google India Challenge Scholarship 2018 Android Basi
 </p>
 
 ### General
-* [Archived Slack Messages - Slark](https://slarck.com/9z1N5S/?k=Xkqwg9YczIT9xRPqAnMvPj7brNC3F8qFw5dOyS8M)
+* [Archived Slack Messages - Slarck](https://slarck.com/9z1N5S/?k=Xkqwg9YczIT9xRPqAnMvPj7brNC3F8qFw5dOyS8M)
 * [Forums](https://discussions.udacity.com/c/standalone-courses/ud834-in/)
 * New Workspace Link - _to be updated after May 29th_
 * [LinkedIn Profiles](https://docs.google.com/spreadsheets/d/1JqGTMa6AQJTjHZT1w7tU76-9h6K3vdxAj1A5yNlk3mg)
