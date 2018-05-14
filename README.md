@@ -6,10 +6,10 @@ A wiki :ledger: for Udacity Google India Challenge Scholarship 2018 Android Basi
 </p>
 
 ### General
-* [Archived Slack Messages - Slarck](https://slarck.com/9z1N5S/?k=Xkqwg9YczIT9xRPqAnMvPj7brNC3F8qFw5dOyS8M)
+* [Archived Slack Messages - Slarck](https://discussions.udacity.com/t/how-to-stay-in-touch-after-phase-1-ends-today/707768/2?u=michael.hathi)
 * [Forums](https://discussions.udacity.com/c/standalone-courses/ud834-in/)
 * New Workspace Link - _to be updated after May 29th_
-* [LinkedIn Profiles](https://docs.google.com/spreadsheets/d/1JqGTMa6AQJTjHZT1w7tU76-9h6K3vdxAj1A5yNlk3mg)
+* [LinkedIn Profiles](https://discussions.udacity.com/t/how-to-stay-in-touch-after-phase-1-ends-today/707768/2?u=michael.hathi)
 
 ### Activities
 * [Blogs](general/Blogs.md)
