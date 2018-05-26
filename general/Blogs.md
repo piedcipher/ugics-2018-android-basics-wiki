@@ -58,9 +58,7 @@ Format `* [Author's Name (if a collection)/ Author's Name & Topic Name](https://
 
 * [**Deepanshu Prajapati** - A Life Changing Movement : Google India Android Developer Challenge Scholarship 2018](https://medium.com/@dipanshuraz2/a-life-changing-movement-google-india-android-developer-challenge-scholarship-2018-3a417809c0b)
 
-* [**Ojasvi Bhargava** - A new Horizon — With Udacity :)](https://medium.com/@ojasvi.bhargava96/a-new-horizon-with-udacity-efdb0dbf49e6)
-
-* [**Sound of Love** - How Udacity Changes My Life.](https://medium.com/@ag1507anshul/how-udacity-changes-my-life-3e32033b8753)
+* [**Anshul Gupta** - How Udacity Changes My Life.](https://medium.com/@ag1507anshul/how-udacity-changes-my-life-3e32033b8753)
 
 * [**Gagan kumar Indoriya** - My journey to become an Android Developer](https://medium.com/@gaganindoriya0/my-journey-to-become-an-android-developer-6f894e62befc)
 
@@ -73,3 +71,9 @@ Format `* [Author's Name (if a collection)/ Author's Name & Topic Name](https://
 * [**Anshul Sharma** - And then, Google India Challenge Scholarship brings happiness.](https://medium.com/@anshuls1098/and-then-google-india-challenge-scholarship-brings-happiness-1c7f9dd25e28)
 
 * [**Anirudh Jwala** - The ride of becoming Android Developer :)](https://medium.com/series/7bb841ffd6bf)
+
+* [**Rohit Vivek** - Google India Challenge Scholarship, the journey begins](https://medium.com/@rohitvivek1234/the-journey-begins-6261f16f3df5)
+
+* [**Akshay Talwar** - How Google and Udacity changed my mind in 90 days…](https://medium.com/@akshay.talwar123/how-google-and-udacity-changed-my-mind-in-90-days-379136713b66)
+
+* [**Athul Augustine** - An Udacious Learning Experience: Time for an Udacity Nanodegree](https://medium.com/@athulaugustine2/an-udacious-learning-experience-733c5b33dbe)
