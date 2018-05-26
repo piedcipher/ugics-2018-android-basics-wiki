@@ -71,3 +71,5 @@ Format `* [Author's Name (if a collection)/ Author's Name & Topic Name](https://
 * [**Shubham Pareek** - Experience Of Google Udacity Scholarship Programme](https://www.youtube.com/watch?v=Dpkcz5dghLI)
 
 * [**Anshul Sharma** - And then, Google India Challenge Scholarship brings happiness.](https://medium.com/@anshuls1098/and-then-google-india-challenge-scholarship-brings-happiness-1c7f9dd25e28)
+
+* [**Anirudh Jwala** - The ride of becoming Android Developer :)](https://medium.com/series/7bb841ffd6bf)
