@@ -77,3 +77,5 @@ Format `* [Author's Name (if a collection)/ Author's Name & Topic Name](https://
 * [**Akshay Talwar** - How Google and Udacity changed my mind in 90 days…](https://medium.com/@akshay.talwar123/how-google-and-udacity-changed-my-mind-in-90-days-379136713b66)
 
 * [**Athul Augustine** - An Udacious Learning Experience: Time for an Udacity Nanodegree](https://medium.com/@athulaugustine2/an-udacious-learning-experience-733c5b33dbe)
+
+* [**Shubham Agrawal** - My journey: Google India challenge Scholarship 2018](https://medium.com/@agrawal24shubham/my-journey-google-india-challenge-scholarship-2018-c9e72a75c342)
