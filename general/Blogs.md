@@ -79,3 +79,5 @@ Format `* [Author's Name (if a collection)/ Author's Name & Topic Name](https://
 * [**Athul Augustine** - An Udacious Learning Experience: Time for an Udacity Nanodegree](https://medium.com/@athulaugustine2/an-udacious-learning-experience-733c5b33dbe)
 
 * [**Shubham Agrawal** - My journey: Google India challenge Scholarship 2018](https://medium.com/@agrawal24shubham/my-journey-google-india-challenge-scholarship-2018-c9e72a75c342)
+
+* [**Shiv Shankar** - How 3 months of Udacity’s AndroidBasicScholarship changed my life!!!](https://medium.com/@shivshankar.hc/on-february-8-of-2018-i-was-eagerly-waiting-for-the-results-of-udacitys-androidbasicscholarship-79d2fb0cac0f)
