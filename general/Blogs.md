@@ -54,7 +54,7 @@ Format `* [Author's Name (if a collection)/ Author's Name & Topic Name](https://
 
 * [**Ravi Shankar** - Journey With GoogleAndroidBasics Scholarship By Udacity](https://medium.com/@ravishankar_69706/journey-with-googleandroidbasics-scholarship-by-udacity-b22d58573f5b)
 
-* [**Deeptimam Mallick** - 3 months of Google India Challenge Scholarship — A shining point on the timeline of my life](https://medium.com/@codecrook/3-months-of-google-india-challenge-scholarship-a-shining-point-on-the-timeline-of-my-life-b635d8eeee11)
+* [**Deeptiman Mallick** - 3 months of Google India Challenge Scholarship — A shining point on the timeline of my life](https://medium.com/@codecrook/3-months-of-google-india-challenge-scholarship-a-shining-point-on-the-timeline-of-my-life-b635d8eeee11)
 
 * [**Deepanshu Prajapati** - A Life Changing Movement : Google India Android Developer Challenge Scholarship 2018](https://medium.com/@dipanshuraz2/a-life-changing-movement-google-india-android-developer-challenge-scholarship-2018-3a417809c0b)
 
@@ -81,3 +81,19 @@ Format `* [Author's Name (if a collection)/ Author's Name & Topic Name](https://
 * [**Shubham Agrawal** - My journey: Google India challenge Scholarship 2018](https://medium.com/@agrawal24shubham/my-journey-google-india-challenge-scholarship-2018-c9e72a75c342)
 
 * [**Shiv Shankar** - How 3 months of Udacity’s AndroidBasicScholarship changed my life!!!](https://medium.com/@shivshankar.hc/on-february-8-of-2018-i-was-eagerly-waiting-for-the-results-of-udacitys-androidbasicscholarship-79d2fb0cac0f)
+
+* [**SOWMYASRI KOTTAPALLI** - Google India Udacity Android Developer Challenge Scholarship recipient 2018](https://medium.com/@k.sowmyasri464/google-india-udacity-android-developer-challenge-scholarship-recipient-2018-a341ffa0b03b)
+
+* [**Vijaya Aditya** - My Experience In Google India Challenge Scholarship 2018](https://medium.com/@vijayaaditya1996/my-experience-in-google-india-challenge-scholarship-2018-6f2fc5356f9)
+
+* [**Udaypratap Rathore** - My Google India Challenge Scholarship journey](https://medium.com/@rathoreudaypratap/my-google-india-challenge-scholarship-journey-41a115e95ce4)
+
+* [**Nitin Kumar** - My Journey to Google India Challenge Scholarship 2018](https://medium.com/@nitinkumar_35018/my-journey-to-google-india-challenge-scholarship-2018-3d059e456521)
+
+* [**Vineet Verma** - Google India Challenge Scholarship: Android Basics …..(Changed My life)](https://medium.com/@vineetpd1996/google-india-challenge-scholarship-android-basics-changed-my-life-13c0ebdc2c47)
+
+* [**vivek singh** - New kid on the block](https://medium.com/@vivek6960/new-kid-on-the-block-1f6e5bea2a72)
+
+* [**Mohd. Faisal** - “I was alone in the journey, the people went on the journey and became a caravan”(Google India Challenge Scholarship)](https://medium.com/@motog5plusmobile/i-was-alone-in-the-journey-the-people-went-on-the-journey-and-became-a-caravan-google-india-9e1a8c54160d)
+
+* [**BHARAT MK** - How udacity change my life](https://medium.com/@bharatmk257/there-was-great-movement-a44efe0e4bbb)
