@@ -1,6 +1,7 @@
 # :mortar_board: :mortar_board: Wiki - Android Basics Track :mortar_board: :mortar_board:
 ## A Udacity Google India Challenge Scholarship 2018 student initiative
 A wiki :ledger: for Udacity Google India Challenge Scholarship 2018 Android Basics Track.
+
 <p align="center">
   	<img width="300" height="300" src="https://imgur.com/FrGft2b.png" />
   	<a href="https://imgur.com/IhJ3mmT.jpg"><img width="300" height="300" src="https://i.imgur.com/IhJ3mmT.png" /></a>
@@ -29,6 +30,8 @@ Archived Slack Messages | Discussion Forums | New Workspace for all
 | 3 | [Github Activity One](https://github.com/OjasviBhargava/LearningGit) | It was an activity to teach how to fork a repository and send pull requests. The ones whose names are added, sent a successful pull request | Ojasvi Bhargava | [Results List](https://github.com/OjasviBhargava/LearningGit#successful-pr-by-)
 | 4 | [Github Activity Two](https://andbasicsindiascholar.slack.com/archives/C9MD8449L/p1522160194000206) | Activity to create a new repository, add a README to it, enter contents related to Android or description of any app you made in this scholarship, and create a GitHub page out of it. | Ojasvi Bhargava | [Results Sheet](https://docs.google.com/spreadsheets/d/1VXkuuYyxE5PT4dsr8yacvelHHJjI4PPL8asHkXRlsWg/edit?usp=sharing)
 | 5 | Copy Layout Competition | Create a replicated layout of any popular apps and upload the project on github. No functionality is required. Projects are judged on basis of layout similarity only. | Prasad Bankar | [Submissions Sheet](https://docs.google.com/spreadsheets/d/1CLOfhJdIUGct8hifX_kNwUpM5u2rPjK26SAXTgdw-is/edit?usp=sharing)
+| 6 | Quiz App with clean-code | Competition is about creating a Quiz or Trivia Application with Clean and High Quality Code | Ikram Mohammad | [Submissions Sheet](https://docs.google.com/spreadsheets/d/1s1L6--lQW_epuVJKBcEcxh3ElIA0pYRtKM1lPt8dVEo/edit?usp=sharing)
+| 7 | Landing Page Competition | Make a "Landing Page Template" for any app which you’ve already built or you can pick one from Play Store to your wild creativity. | Apoorva Tiwari | [Submissions Sheet](https://docs.google.com/document/d/1sfY9OKOqffzBAFt7JHTsZANIdKdDHDO405kZee0-F8w/edit?usp=sharing)
 
 ### Collaborative Projects
 * [Audacity](https://github.com/UdacityAndroidBasicsScholarship/audacity)
@@ -43,3 +46,7 @@ Archived Slack Messages | Discussion Forums | New Workspace for all
 * [Photo Collage](https://imgur.com/IhJ3mmT.jpg) by [Bharat](https://github.com/bharatmk257)
 * [Commonly Faced Android Errors](https://github.com/kkdroidgit/Commonly-Faced-Android-Errors)
 * [How to Share Images and Code Snippets on Slack - Best Practices](https://github.com/numerative/Posting-images-and-code-snippets-on-slack-best-practices)
+* [Udacity India Scholars - YouTube Channel](https://www.youtube.com/channel/UCuq-ynoC5KpKURdKQTS40WQ)
+
+### Contributors
+[![ugics-2018-android-basics-wiki's Contributors](https://img.shields.io/github/contributors/piedcipher/ugics-2018-android-basics-wiki.svg?colorB=5C6BC0&style=for-the-badge)](https://github.com/piedcipher/ugics-2018-android-basics-wiki/graphs/contributors)
