@@ -25,7 +25,7 @@
 | Madhav Bangaru | [Journey with Udacity Google India Challenge Scholarship 🏆](https://medium.com/@bangarumadhav/journey-with-udacity-google-india-challenge-scholarship-6027f3444adc)
 | Mayank Singh Chaudhary | [Who Am I ? And my experience at Udacity under Google India Scholarship: Android Basics.](https://medium.com/@singhchaudharymayank0/who-am-i-and-my-experience-at-udacity-under-google-india-scholarship-android-basics-6bc733cfece)
 | Aditya Anand | [Google India Scholarship: Android Basics](https://medium.com/@imadianand/google-india-scholarship-android-basics-162a12655fbb)
-| Ravinder L | [Udacity | Google India Challenge Scholarships — 2018](https://medium.com/@raviinit/udacity-google-india-scholarships-2018-8024169ae752)
+| Ravinder L | [Udacity \| Google India Challenge Scholarships — 2018](https://medium.com/@raviinit/udacity-google-india-scholarships-2018-8024169ae752)
 | Vibhor Mittal | [My experience being a Google and Udacity Scholarship Recipient](https://medium.com/@vibhormittal007/my-experience-being-a-google-and-udacity-scholarship-recipient-419d80fb860)
 | Ikram Mohammad | [Wonderful journey with Udacity Android Basics Challenge Scholarship Course.](https://medium.com/@ikramkhan112016/wonderful-journey-with-udacity-android-basics-challenge-scholarship-course-c89a44c4c567)
 | Himani Sharma | [Ocean Swirl](https://medium.com/@himanisharma2304/ocean-swirl-d555cb54ccee)
